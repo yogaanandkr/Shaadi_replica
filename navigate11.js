@@ -1,1 +1,1 @@
-[link to index.html](https://github.com/yogaanandkr/Shaadi_replica/blob/master/index.html)
+//-[link to index.html](https://github.com/yogaanandkr/Shaadi_replica/blob/master/index.html)
