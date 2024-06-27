@@ -1,1 +1,1 @@
-my git(https://github.com/yogaanandkr/Shaadi_replica/edit/master/index.html)
+[link to index.html](https://github.com/yogaanandkr/Shaadi_replica/blob/master/index.html)
